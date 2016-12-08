@@ -1,0 +1,21 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "baseUrl": ".",
+    "rootDir": "src",
+    "outDir": "lib",
+    "module": "commonjs",
+    "declaration": true,
+    "noImplicitAny": true,
+    "target": "es2015",
+    "sourceMap": true,
+    "typeRoots": [
+      "./@types/",
+      "./node_modules/@types/"
+    ]
+  },
+  "exclude": [
+    "lib/*",
+    "node_modules/*"
+  ]
+}

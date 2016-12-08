@@ -1,9 +1,0 @@
-{
-  "presets": [
-    "es2015",
-    "@morlay/babel-preset"
-  ],
-  "plugins": [
-    "lodash"
-  ]
-}
